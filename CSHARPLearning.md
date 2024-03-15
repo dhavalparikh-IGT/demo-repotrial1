@@ -1,4 +1,4 @@
-#Basics
+##Basics
 - C# is a programming language , .Net is a Framework for developing applicaitons on windows
 - .Net consists of two important components
   a) CLR ( Common language Runtime)
